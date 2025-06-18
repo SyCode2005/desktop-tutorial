@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# CTensor: A Subspace-Preserving Compact Tensor for Real-Time Streaming Data 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The first folder is for the implementation of CTensor and the second folder is for the implementation of CTensor-AD. Their dependencies are: Tensor-Tensor Product Toolbox, see https://github.com/canyilu/tproduct. Each folder corresponds to the proposed CTensor and CTensor-AD algorithm, and contains the demo file.
